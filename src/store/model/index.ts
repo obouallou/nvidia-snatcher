@@ -6,6 +6,7 @@ import {Amazon} from './amazon';
 import {AmazonCa} from './amazon-ca';
 import {AmazonDe} from './amazon-de';
 import {AmazonEs} from './amazon-es';
+import {AmazonFr} from './amazon-fr';
 import {AmazonNl} from './amazon-nl';
 import {AmazonUk} from './amazon-uk';
 import {Aria} from './aria';
