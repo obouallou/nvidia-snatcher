@@ -113,5 +113,5 @@ export const AmazonFr: Store = {
 			url: 'https://www.amazon.fr/dp/B08HR1NPPQ'
 		}
 	],
-	name: 'amazon-de'
+	name: 'amazon-fr'
 };
