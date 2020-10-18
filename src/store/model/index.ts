@@ -35,6 +35,7 @@ import {ProshopDE} from './proshop-de';
 import {ProshopDK} from './proshop-dk';
 import {Scan} from './scan';
 import {Store} from './store';
+import {TopAchat} from './topachat';
 import {Very} from './very';
 import {Zotac} from './zotac';
 import {config} from '../../config';
@@ -77,6 +78,7 @@ const masterList = new Map([
 	[ProshopDK.name, ProshopDK],
 	[Pny.name, Pny],
 	[Scan.name, Scan],
+	[TopAchat.name, TopAchat],
 	[Very.name, Very],
 	[Zotac.name, Zotac]
 ]);
