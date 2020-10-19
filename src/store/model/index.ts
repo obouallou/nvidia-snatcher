@@ -28,6 +28,7 @@ import {Ebuyer} from './ebuyer';
 import {Evga} from './evga';
 import {EvgaEu} from './evga-eu';
 import {Gamestop} from './gamestop';
+import {Ldlc} from './ldlc';
 import {Mediamarkt} from './mediamarkt';
 import {MicroCenter} from './microcenter';
 import {Mindfactory} from './mindfactory';
@@ -80,6 +81,7 @@ export const storeList = new Map([
 	[Evga.name, Evga],
 	[EvgaEu.name, EvgaEu],
 	[Gamestop.name, Gamestop],
+	[Ldlc.name, Ldlc],
 	[Mediamarkt.name, Mediamarkt],
 	[MicroCenter.name, MicroCenter],
 	[Mindfactory.name, Mindfactory],
