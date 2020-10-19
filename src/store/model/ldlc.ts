@@ -217,6 +217,12 @@ export const Ldlc: Store = {
 			url: 'https://www.ldlc.com/fiche/PB00368931.html'
 		},
 		{
+			brand: 'nvidia',
+			model: 'fe',
+			series: '3080',
+			url: 'https://www.ldlc.com/fiche/PB00383358.html'
+		},
+		{
 			brand: 'kfa2',
 			model: 'sg',
 			series: '3090',
