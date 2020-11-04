@@ -34,6 +34,18 @@ export const AmazonUk: Store = {
 			model: 'test:model',
 			series: 'test:series',
 			url: 'https://www.amazon.co.uk/dp/B081265T5Z/'
+		},
+		{
+			brand: 'amd',
+			model: '5950',
+			series: 'cpu',
+			url: 'https://www.amazon.co.uk/dp/B0815Y8J9N'
+		},
+		{
+			brand: 'amd',
+			model: '5900',
+			series: 'cpu',
+			url: 'https://www.amazon.co.uk/dp/B08164VTWH'
 		}
 	],
 	linksBuilder: {

@@ -352,6 +352,18 @@ export const AmazonDe: Store = {
 			model: 'xlr8 rgb',
 			series: '3070',
 			url: 'https://www.amazon.de/dp/B08HBJB7YD'
+		},
+		{
+			brand: 'amd',
+			model: '5950',
+			series: 'cpu',
+			url: 'https://www.amazon.de/dp/B0815Y8J9N'
+		},
+		{
+			brand: 'amd',
+			model: '5900',
+			series: 'cpu',
+			url: 'https://www.amazon.de/dp/B08164VTWH'
 		}
 	],
 	name: 'amazon-de'

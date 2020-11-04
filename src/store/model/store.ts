@@ -10,10 +10,10 @@ export type Pricing = {
 	euroFormat?: boolean;
 };
 
-export type Series = 'test:series' | '3070' | '3080' | '3090';
+export type Series = 'test:series' | '3070' | '3080' | '3090' | 'cpu';
 
 export type Link = {
-	brand: 'test:brand' | 'asus' | 'evga' | 'gainward' | 'gigabyte' | 'inno3d' | 'kfa2' | 'msi' | 'nvidia' | 'palit' | 'pny' | 'zotac' | 'gainward';
+	brand: 'test:brand' | 'asus' | 'evga' | 'gainward' | 'gigabyte' | 'inno3d' | 'kfa2' | 'msi' | 'nvidia' | 'palit' | 'pny' | 'zotac' | 'gainward' | 'amd';
 	itemNumber?: string;
 	series: Series;
 	model: string;

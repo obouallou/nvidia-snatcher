@@ -29,6 +29,24 @@ export const AmazonFr: Store = {
 			url: 'https://www.amazon.fr/dp/B08HBTJMLJ'
 		},
 		{
+			brand: 'amd',
+			model: '5950',
+			series: 'cpu',
+			url: 'https://www.amazon.fr/dp/B0815Y8J9N'
+		},
+		{
+			brand: 'amd',
+			model: '5900',
+			series: 'cpu',
+			url: 'https://www.amazon.fr/dp/B08164VTWH'
+		},
+		{
+			brand: 'pny',
+			model: 'xlr8',
+			series: '3080',
+			url: 'https://www.amazon.fr/dp/B08HBTJMLJ'
+		},
+		{
 			brand: 'pny',
 			model: 'xlr8 rgb',
 			series: '3080',

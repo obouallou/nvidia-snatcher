@@ -1,6 +1,7 @@
 import {config, defaultStoreData} from '../../config';
 import {Adorama} from './adorama';
 import {Alternate} from './alternate';
+import {AlternateFr} from './alternate-fr';
 import {AlternateNL} from './alternate-nl';
 import {Amazon} from './amazon';
 import {AmazonCa} from './amazon-ca';
@@ -56,11 +57,13 @@ import {logger} from '../../logger';
 export const storeList = new Map([
 	[Adorama.name, Adorama],
 	[Alternate.name, Alternate],
+	[AlternateFr.name, AlternateFr],
 	[AlternateNL.name, AlternateNL],
 	[Amazon.name, Amazon],
 	[AmazonCa.name, AmazonCa],
 	[AmazonDe.name, AmazonDe],
 	[AmazonEs.name, AmazonEs],
+	[AmazonFr.name, AmazonFr],
 	[AmazonNl.name, AmazonNl],
 	[AmazonUk.name, AmazonUk],
 	[Aria.name, Aria],
