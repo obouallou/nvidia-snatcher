@@ -251,7 +251,19 @@ export const ProshopDE: Store = {
 			model: 'gaming x trio',
 			series: '3090',
 			url: 'https://www.proshop.de/2876881'
-		}
+		},
+		{
+			brand: 'amd',
+			model: '5950',
+			series: 'cpu',
+			url: 'https://www.proshop.de/2884175'
+		},
+		{
+			brand: 'amd',
+			model: '5900',
+			series: 'cpu',
+			url: 'https://www.proshop.de/2884173'
+		},
 	],
 	name: 'proshop-de'
 };
